@@ -1,2 +1,4 @@
 # preetipandey-demo
-This is my first Git Repository Author+Preeti Pandey
+This is my first Git Repository
+br<<
+Author=Preeti Pandey
